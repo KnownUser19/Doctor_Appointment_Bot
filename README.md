@@ -13,11 +13,7 @@ The bot:
 
 ---
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/doctor-cover.png](https://drive.google.com/file/d/1mw_1WX5V0Myy7LeH9qgEC-dbk9AvnKI9/view?usp=sharing)" width="100%">
-</p>
-
-
+<img src="https://drive.google.com/uc?export=view&id=11gpkyYc3-MSJabn_eD9ZKhkjwmmkOF0Z](https://drive.google.com/file/d/1mw_1WX5V0Myy7LeH9qgEC-dbk9AvnKI9/view?usp=sharing" alt="Mini Agentic Pipeline" width="700">
 ## 1. Tech Stack
 
 - Python 3.9+
@@ -44,6 +40,7 @@ demo/
   screenshot_cli_booking.png
   screenshot_calendar.png
   demo_video_link.txt    # link to screen recording 
+
 
 
 
