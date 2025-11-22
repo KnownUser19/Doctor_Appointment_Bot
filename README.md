@@ -35,10 +35,8 @@ calendar_utils.py        # demo/offline calendar (no API)
 config.py                # timezone, work hours, defaults
 conversation_flow.md     # written description of flow
 requirements.txt         # Python dependencies
-docs/
-  conversation_flow.mmd  # Mermaid flow diagram source
-  conversation_flow.png  # exported diagram (optional)
 demo/
   screenshot_cli_booking.png
   screenshot_calendar.png
-  demo_video_link.txt    # link to screen recording (optional)
+  demo_video_link.txt    # link to screen recording 
+
