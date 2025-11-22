@@ -13,7 +13,9 @@ The bot:
 
 ---
 
-![Doctor Appointment Bot Cover](https://raw.githubusercontent.com/username/repo/main/assets/my-image.png](https://drive.google.com/file/d/1mw_1WX5V0Myy7LeH9qgEC-dbk9AvnKI9/view?usp=sharing)
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/doctor-cover.png](https://drive.google.com/file/d/1mw_1WX5V0Myy7LeH9qgEC-dbk9AvnKI9/view?usp=sharing)" width="100%">
+</p>
 
 
 ## 1. Tech Stack
@@ -42,5 +44,6 @@ demo/
   screenshot_cli_booking.png
   screenshot_calendar.png
   demo_video_link.txt    # link to screen recording 
+
 
 
